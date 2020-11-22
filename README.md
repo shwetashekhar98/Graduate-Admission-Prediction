@@ -1,1 +1,1 @@
-# Online-Graduate-Prediction
+# Graduate Admission Prediction Problem
